@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog 1",
+      "description": "This is the first blog post. It provides an introduction to the main topic and gives an overview of the key points that will be covered. The blog is authored by someone with extensive experience in the field, offering valuable insights and practical tips.",
+      "author": "Author 1"
+    },
+    {
+      "id": 2,
+      "title": "Blog 2",
+      "description": "This is the second blog post. It delves deeper into the subject matter, providing detailed analysis and examples. The author discusses the implications of recent developments and offers expert opinions. Readers can expect to gain a thorough understanding of the topic.",
+      "author": "Author 2"
+    },
+    {
+      "id": 3,
+      "title": "aseebis hero",
+      "description": "hehe noip",
+      "author": "aseeb"
+    }
+  ]
+}
